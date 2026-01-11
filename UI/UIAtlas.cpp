@@ -104,6 +104,7 @@ static const ImageMeta imageIDs[] = {
 	{"I_D", true},
 	{"I_E", true},
 	{"I_F", true},
+	{"I_FIAMY", false},
 	{"I_FOLDER_OPEN", false},
 	{"I_WARNING", false},
 	{"I_TRASHCAN", false},
